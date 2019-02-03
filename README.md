@@ -1,0 +1,1 @@
+this project was created to reproduce an issue in which node-serialport cannot be used with proton-native when producing a distributable binary (tested on windows, untested on other platforms)
